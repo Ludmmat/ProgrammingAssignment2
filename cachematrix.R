@@ -2,7 +2,6 @@
 ## functions do
 
 ## Write a short comment describing this function
-
 # makeCacheMatrix creates a list containing a function to
 # 1. set the value of the matrix
 # 2. get the value of the matrix
